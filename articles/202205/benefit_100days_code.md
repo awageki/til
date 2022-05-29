@@ -13,3 +13,6 @@ Hard work always pays off: 努力は必ず報われる
 - confidence: 自信
 
 # impression
+過去同じことをしていたので懐かしかった
+
+習慣づけの観点からも良い取り組みだと思う
